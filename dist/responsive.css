@@ -346,7 +346,7 @@
     font-size: 28px;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 2000px) {
   .header {
     height: 109px;
   }
@@ -485,7 +485,7 @@
 }
 @media screen and (min-width: 1900px) {
   .container {
-    width: 1900px;
+    width: 2100px;
     margin: 0px auto;
   }
 
